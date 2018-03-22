@@ -104,6 +104,7 @@ namespace Microsoft.Samples.Kinect.DepthBasics
             }
         }
 
+
         /// <summary>
         /// Execute shutdown tasks
         /// </summary>
