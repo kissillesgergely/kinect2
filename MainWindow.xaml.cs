@@ -267,3 +267,4 @@ namespace Microsoft.Samples.Kinect.DepthBasics
         }
     }
 }
+//hello
