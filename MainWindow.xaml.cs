@@ -267,5 +267,5 @@ namespace Microsoft.Samples.Kinect.DepthBasics
         }
     }
 }
-//vége1
+//vége2
 //vége
